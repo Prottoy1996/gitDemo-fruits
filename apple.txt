@@ -1,1 +1,2 @@
 I pretty much like to eat apple.
+price = 5$
